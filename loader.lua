@@ -1,4 +1,4 @@
-local URL = "Kxy.lua"
+local URL = "https://raw.githubusercontent.com/contactforworkngocthuan-ai/urbanreload/refs/heads/main/Kxy.lua"
 
 local success, err = pcall(function()
     local source = game:HttpGet(URL)
