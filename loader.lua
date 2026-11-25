@@ -1,4 +1,4 @@
-local URL = "DAN_RAW_URL_VAO_DAY"
+local URL = "Kxy.lua"
 
 local success, err = pcall(function()
     local source = game:HttpGet(URL)
